@@ -53,7 +53,7 @@ public class Employee {
    }
    public String toString(){
        String name = getname();
-       return "ID" + id + "| Name " + name + "| Salary " + salary;
+       return "ID " + id + "| Name: " + name + " | Salary " + salary;
    }
 
 
